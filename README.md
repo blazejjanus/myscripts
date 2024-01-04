@@ -1,2 +1,2 @@
-# myscripts
-Repository for my personal shell scripts
+# MyScripts
+Repository for my shell scripts
